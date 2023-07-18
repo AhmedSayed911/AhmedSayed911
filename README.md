@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="">Ahmed Sayed</a></h2>
 <p>I'm currently learning Web Development path based in Make New Creative Projects With Team</p>
-<p></a> <a href="https://instagram.com/a.s9.1.1?igshid===NTc4MTIwNjQ2YQ"><i src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.freebiesupply.com%2Fimages%2Flarge%2F2x%2Finstagram-icon-white-on-black-circle.png&tbnid=rcjLUHDt9jDhRM&vet=12ahUKEwjNl-eGkJmAAxUXsCcCHROnBZMQMygGegUIARC_AQ..i&imgrefurl=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Finstagram-logo%2F&docid=eMwtW2tsDiIx2M&w=1600&h=1200&q=instagram%20icon%20transparent&ved=2ahUKEwjNl-eGkJmAAxUXsCcCHROnBZMQMygGegUIARC_AQ" alt="Instgram Icon"></i></a>
+<p></a> <a href="https://instagram.com/a.s9.1.1?igshid===NTc4MTIwNjQ2YQ"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.freebiesupply.com%2Fimages%2Flarge%2F2x%2Finstagram-icon-white-on-black-circle.png&tbnid=rcjLUHDt9jDhRM&vet=12ahUKEwjNl-eGkJmAAxUXsCcCHROnBZMQMygGegUIARC_AQ..i&imgrefurl=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Finstagram-logo%2F&docid=eMwtW2tsDiIx2M&w=1600&h=1200&q=instagram%20icon%20transparent&ved=2ahUKEwjNl-eGkJmAAxUXsCcCHROnBZMQMygGegUIARC_AQ" alt="Instgram Icon"></a>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -24,6 +24,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<!-- </p>
+<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" /> -->
 <p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
