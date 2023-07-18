@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="">Ahmed Sayed</a></h2>
 <p>I'm currently learning Web Development path based in Make New Creative Projects With Team</p>
 <p></a> <a href="https://instagram.com/a.s9.1.1?igshid===NTc4MTIwNjQ2YQ">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instgram/instgram-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://www.flaticon.com/free-icon/instagram_174855" alt="Instgram Icon" width="25" height="25" />
 </a>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
