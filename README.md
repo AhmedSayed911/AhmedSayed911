@@ -8,7 +8,7 @@
 <li>🔭 I’m currently working on Animations Website </a>.</li>
 <li>🧐 Learning about <strong>Front-End</strong>, <strong>and Reading Many Books About Multi Topics</strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AhmedSayed911">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://www.linkedin.com/in/ahmed-sayed-shalaby-799060282/">Linkedin</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://www.linkedin.com/in/ahmed-sayed-shalaby-799060282/">Linkedin</a> or <a href="https://medium.com/@ahmedsayedshalaby">Medium</a>.</li>
 <li>💬 Ping me about <strong>HTML | CSS | JS | PYTHON</strong>.</li>
 <li>🎉 Fun Fact: I'm Love Programming</li>
 </ul>
