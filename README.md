@@ -9,6 +9,7 @@
 <li>🧐 Learning about <strong>Front-End</strong>, <strong>and Reading Many Books About Multi Topics</strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AhmedSayed911">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://www.linkedin.com/in/ahmed-sayed-shalaby-799060282/">Linkedin</a> or <a href="https://medium.com/@ahmedsayedshalaby">Medium</a>.</li>
+<li>Follow me at <a href="https://www.instagram.com/a.s9.1.1/?igshid=%3D%3DNTc4MTIwNjQ2YQ">Instagram</a></li>
 <li>💬 Ping me about <strong>HTML | CSS | JS | PYTHON</strong>.</li>
 <li>🎉 Fun Fact: I'm Love Programming</li>
 </ul>
