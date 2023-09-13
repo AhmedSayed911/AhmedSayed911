@@ -8,18 +8,18 @@
 <li>🔭 I’m currently working on Animations Website </a>.</li>
 <li>🧐 Learning about <strong>Front-End</strong>, <strong>and Reading Many Books About Multi Topics</strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AhmedSayed911">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://www.linkedin.com/in/ahmed-sayed-shalaby-799060282/">Linkedin</a> or <a href="https://medium.com/@ahmedsayedshalaby">Medium</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://www.linkedin.com/in/ahmedsayedshalaby">Linkedin</a> or <a href="https://medium.com/@ahmedsayedshalaby">Medium</a>.</li>
 <li>Follow me at <a href="https://www.instagram.com/a.s9.1.1/?igshid=%3D%3DNTc4MTIwNjQ2YQ">Instagram</a></li>
-<li>💬 Ping me about <strong>HTML | CSS | JS | PYTHON</strong>.</li>
+<li>💬 Ping me about <strong>HTML | CSS | JS | PYTHON | Bootstrap | React.js</strong>.</li>
 <li>🎉 Fun Fact: I'm Love Programming</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
-    <li><a href="https://www.facebook.com/groups/ElzeroWebSchool/permalink//5359710137491340">How To Start Learn Programming From Phone</a></li>
-    <li><a href="https://medium.com/@ahmedsayedshalaby/this-is-my-first-article-on-medium-com-2d3b131f64a2">The Uses Of Normalize File</a></li>
-    <li><a href="https://medium.com/@ahmedsayedshalaby/the-most-important-3-ِacademies-to-learn-programming-in-2023-3d1128c8b961">Top 3 Websites To learn programming in Arabic</a></li>
-    <li><a href="https://medium.com/@ahmedsayedshalaby/top-10-websites-to-help-you-program-css-in-2023-20a6f932ee2c">Best 10 Css Tools In 2023</a></li>
+    <li><a href="https://medium.com/@ahmedsayedshalaby/top-10-websites-to-help-you-program-css-in-2023-20a6f932ee2c">Top 10 Websites To Help You Program CSS in 2023</a></li>
+    <li><a href="https://medium.com/@ahmedsayedshalaby/for-the-difference-between-text-editor-and-ide-and-the-meaning-of-all-existing-terms-c17f6937d57f">For the difference between Text-Editor and IDE and the meaning of all existing terms</a></li>
+    <li><a href="https://medium.com/@ahmedsayedshalaby/best-google-chrome-extensions-you-should-be-using-2023-df2f65c2436f">Best Google Chrome Extensions You Should be Using 2023</a></li>
+    <li><a href="https://medium.com/@ahmedsayedshalaby/the-power-of-linkedin-how-to-use-the-platform-to-achieve-your-career-goals-2162bc5b48b9">The Power of LinkedIn: How to Use the Platform to Achieve Your Career Goals</a></li>
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
