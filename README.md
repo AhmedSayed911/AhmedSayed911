@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning PHP, JS
 - 💬 &nbsp;Ask me about anything related to Javascript/CSS/HTML/PHP/Python
 - 👨‍💻 &nbsp;Read more about my projects at [https://twitter.com/AhmedS9190027]
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Playstation Gaming
+- ⚡ &nbsp;Fun fact: I :heart: 🏃:s and Playstation Gaming
 
 📕 &nbsp;**Latest Medium Posts**
 <!-- BLOG-POST-LIST:START -->
