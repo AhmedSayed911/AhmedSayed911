@@ -7,9 +7,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [https://twitter.com/IamCsBoy]
 - ⚡ &nbsp;Fun fact: I :heart: 🏃:s and Playstation Gaming
 
-📕 &nbsp;**Latest Medium Posts**
+📕 &nbsp;**Latest Stories**
 <!-- BLOG-POST-LIST:START -->
-<a href"medium.com/@ahmedsayedshalaby">My Acc </a>
+<a href"medium.com/@ahmedsayedshalaby">Ahmed Sayed Shalaby</a>
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
