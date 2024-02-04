@@ -7,10 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about my projects at [https://twitter.com/IamCsBoy]
 - ⚡ &nbsp;Fun fact: I :heart: 🏃 and Playstation Games
 
-📕 &nbsp;**Latest Stories**
-<!-- BLOG-POST-LIST:START -->
-<a href"medium.com/@ahmedsayedshalaby">Ahmed Sayed Shalaby</a>
-<!-- BLOG-POST-LIST:END -->
+<br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -18,7 +15,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 📊 &nbsp;**This week I spent my time on Project for special client**
-  
+  <br>
 ### ✨&nbsp; About Me
 
 I am a Web Developer with 1+ years of experience in developing enterprise applications and open-source software.
