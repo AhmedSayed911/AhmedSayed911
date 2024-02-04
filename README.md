@@ -4,8 +4,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning PHP, JS
 - 💬 &nbsp;Ask me about anything related to Javascript/CSS/HTML/PHP/React
-- 👨‍💻 &nbsp;Read more about my projects at [https://twitter.com/IamCsBoy]
-- ⚡ &nbsp;Fun fact: I :heart: 🏃 and Playstation Games
+- 👨‍💻 &nbsp;Explore more about my projects at [https://twitter.com/IamCsBoy]
+- ✍️ &nbsp;Read my stories on medium [https://medium.com/@ahmedsayedshalaby]
+- ⚡ &nbsp;Fun fact: I :heart: Running and Playstation Games
 
 <br>
 
