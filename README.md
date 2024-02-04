@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning PHP, JS
 - 💬 &nbsp;Ask me about anything related to Javascript/CSS/HTML/PHP/React
 - 👨‍💻 &nbsp;Read more about my projects at [https://twitter.com/IamCsBoy]
-- ⚡ &nbsp;Fun fact: I :heart: 🏃:s and Playstation Gaming
+- ⚡ &nbsp;Fun fact: I :heart: 🏃 and Playstation Games
 
 📕 &nbsp;**Latest Stories**
 <!-- BLOG-POST-LIST:START -->
